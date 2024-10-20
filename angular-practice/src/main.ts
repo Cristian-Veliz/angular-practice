@@ -5,3 +5,4 @@ import { AppComponent } from './app/app.component';
 bootstrapApplication(AppComponent, appConfig)
   .catch((err) => console.error(err));
   //archivo que inicializa la app
+  //se instalan las extensiones necesarias para angular
